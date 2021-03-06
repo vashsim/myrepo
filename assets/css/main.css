@@ -5151,7 +5151,7 @@ input, select, textarea {
 		justify-content: center;
 		background-color: #1e2731;
 		color: #ffffff;
-		background-image: url("../../images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg");
+		background-image: url("../../images/domenico-loia-hGV2TfOh0ns-unsplash_1.jpg");
 		background-position: center;
 		background-size: cover;
 		background-attachment: fixed;
@@ -5276,8 +5276,8 @@ input, select, textarea {
 			-ms-transition-delay: 0.5s;
 			transition-delay: 0.5s;
 			content: '';
-			background-color: #1e2731;
-			opacity: 0.85;
+			background-color: #000000;
+			opacity: 0.40;
 			position: absolute;
 			top: 0;
 			left: 0;
