@@ -5151,7 +5151,7 @@ input, select, textarea {
 		justify-content: center;
 		background-color: #1e2731;
 		color: #ffffff;
-		background-image: url("../../images/domenico-loia-hGV2TfOh0ns-unsplash_1.jpg");
+		background-image: url("../../images/xps-g2E2NQ5SWSU-unsplash.jpg");
 		background-position: center;
 		background-size: cover;
 		background-attachment: fixed;
@@ -5277,7 +5277,7 @@ input, select, textarea {
 			transition-delay: 0.5s;
 			content: '';
 			background-color: #000000;
-			opacity: 0.40;
+			opacity: 0.50;
 			position: absolute;
 			top: 0;
 			left: 0;
