@@ -2050,7 +2050,7 @@ input, select, textarea {
 		input[type="button"].primary.accent4,
 		button.primary.accent4,
 		.button.primary.accent4 {
-			background-color: #6E81D0 !important;
+			background-color: #DE354C !important;
 			color: #ffffff !important;
 		}
 
@@ -3330,7 +3330,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #51CCA8;
+			background-color: #DE354C;
 			color: #d4f2e9;
 		}
 
